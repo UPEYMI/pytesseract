@@ -1,6 +1,4 @@
 # from Project_OCR import extraction_file
-from Project_OCR.extraction_file import ExtractPanDetails
-import config
 
 if __name__ == "__main__":
     
@@ -8,4 +6,6 @@ if __name__ == "__main__":
     print(result)
 
 def get_missing():
+    pass
+def get_outliers():
     pass
